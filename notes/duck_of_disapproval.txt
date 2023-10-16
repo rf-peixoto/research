@@ -11,6 +11,8 @@ code first. This can get you in trouble! Behold the Almight Duck of Disapproval.
                                                                       `---'
 
 Please don't be mad at him. The Duck of Disapproval is here to remind you that shit
-happens. Do your best to make sure they don't happen to you.
+happens. Do your best to make sure they don't happen to you. If you got here by running
+a file, don't worry. Everything is just random bullshit. No harm was done, no data was
+exfiltrated, nor were any endpoints exposed.
 
-~ This process did not cause any harm to your machine. Keep safe. ~
+Keep safe.
