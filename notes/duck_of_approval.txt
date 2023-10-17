@@ -1,0 +1,13 @@
+ _  _       _  _             ___     _                  _                          _   
+| || | ___ | || | ___       /   \ __| |__ __ ___  _ _  | |_  _  _  _ _  ___  _ _  | |  
+| __ |/ -_)| || |/ _ \      | - |/ _` |\ V // -_)| ' \ |  _|| || || '_|/ -_)| '_| |_|  
+|_||_|\___||_||_|\___/,     |_|_|\__/_| \_/ \___||_||_| \__| \_._||_|  \___||_|   (_)  
+
+Congratulations! You've been visited by the Weird Duck of Approval! You executed
+suspicious code in a protected environment. The Duck of Approval salutes you for
+this achievement.
+
+	 ~~~
+	( o )>
+	(")")
+	 L L
