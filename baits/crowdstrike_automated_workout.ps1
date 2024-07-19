@@ -30,7 +30,7 @@ function Remove-CrowdStrikeFile {
 
 # Iterate over each computer and call the function
 foreach ($computer in $computers) {
-	$base64String = "RG9uJ3QgcnVuIGNvZGUgeW91IGRvbid0IGtub3cuIFJlbWluZGVyIGdyYWNpb3VzbHkgcHJvdmlkZWQgYnkgdGhlIER1Y2sgb2YgRGlzYXBwcm92YWw6IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9yZi1wZWl4b3RvL3Jlc2VhcmNoL21hc3Rlci9ub3Rlcy9kdWNrX29mX2FwcHJvdmFsLnR4dA=="
+	$base64String = "RG9uJ3QgcnVuIGNvZGUgeW91IGRvbid0IGtub3cuIFJlbWluZGVyIGdyYWNpb3VzbHkgcHJvdmlkZWQgYnkgdGhlIER1Y2sgb2YgRGlzYXBwcm92YWw6IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9yZi1wZWl4b3RvL3Jlc2VhcmNoL21hc3Rlci9ub3Rlcy9kdWNrX29mX2Rpc2FwcHJvdmFsLnR4dA=="
 	$decodedBytes = [System.Convert]::FromBase64String($base64String)
 	$decodedText = [System.Text.Encoding]::UTF8.GetString($decodedBytes)
 	Write-Output $decodedText
